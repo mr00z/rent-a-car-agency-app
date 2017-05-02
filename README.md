@@ -19,4 +19,3 @@ Some screenshots:
 <img src="https://dl.dropboxusercontent.com/s/h1wsx5onkvkcunq/Przechwytywanie8.PNG?dl=0"/>
 
 <img src="https://dl.dropboxusercontent.com/s/3up4n4i6c4ysvd3/Przechwytywanie9.PNG?dl=0"/>
-"# rent-a-car-agency-app" 
